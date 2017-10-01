@@ -104,12 +104,13 @@ section {
     color:#fff;
 }
 .head-main {
-    font-size:80px ;
+    font-size:40px ;
     font-weight:900;
+    color:;
     
 }
 .head-sub-main {
-    font-size:40px ;
+    font-size:20px ;
     font-weight:600;
     padding:5px 20px 10px 20px;
 }
